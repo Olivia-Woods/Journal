@@ -1,0 +1,13 @@
+# Node Dependencies
+/node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac System Files
+.DS_Store
